@@ -3,7 +3,7 @@ title: \[译\] 2017前端技术发展回顾
 layout: post
 thread: 183
 date: 2017-12-18
-author: Joe Jiang
+author: Phuoc Jiang
 categories: documents
 tags: [2017, JavaScript, FE, Translation]
 excerpt: 前端领域在 2017 年再次以狂热的节奏向前发展。该文章列出过去的一年中最值得关注的一系列事情。
@@ -18,9 +18,9 @@ header:
 >
 > 原文地址 - <https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727>
 > 
-> 译者 - [hijiangtao](https://github.com/hijiangtao)
+> 译者 - [phuoc852312](https://github.com/phuoc852312)
 >
-> 译文地址 - <https://hijiangtao.github.io/2017/12/18/A-Recap-of-Front-End-Development-in-2017/>
+> 译文地址 - <https://phuoc852312.github.io/2017/12/18/A-Recap-of-Front-End-Development-in-2017/>
 >
 > 知乎专栏 - <https://zhuanlan.zhihu.com/p/32119668>
 
@@ -141,4 +141,4 @@ gitconnected 发起为开发人员和软件工程师创建社区。它提供了�
 
 ----
 
-译者：我一直在维护一个项目 [FE-Cookbook](https://github.com/hijiangtao/FE-Cookbook)，个人想通过这个项目把自己持续关注的前端相关内容汇总收集，一方面方便自己和其他同学日后查看、另一方面希望与有同样兴趣的同学一起将该项目完善壮大。本项目持续更新中，如果觉得有用欢迎给项目添加 Star；如果觉得有任何需要改进或者需要完善的地方，欢迎贡献代码提请 PR，针对无冲突的内容我会快速合并。更多项目请关注我的 [GitHub](https://github.com/hijiangtao)。
+译者：我一直在维护一个项目 [FE-Cookbook](https://github.com/phuoc852312/FE-Cookbook)，个人想通过这个项目把自己持续关注的前端相关内容汇总收集，一方面方便自己和其他同学日后查看、另一方面希望与有同样兴趣的同学一起将该项目完善壮大。本项目持续更新中，如果觉得有用欢迎给项目添加 Star；如果觉得有任何需要改进或者需要完善的地方，欢迎贡献代码提请 PR，针对无冲突的内容我会快速合并。更多项目请关注我的 [GitHub](https://github.com/phuoc852312)。

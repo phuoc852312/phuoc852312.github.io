@@ -3,7 +3,7 @@ title: 聊聊 JavaScript 与浏览器的那些事 - 引擎与线程
 layout: post
 thread: 186
 date: 2018-01-08
-author: Joe Jiang
+author: Phuoc Jiang
 categories: Documents
 tags: [JavaScript, 浏览器, 线程, 引擎, 内核]
 excerpt: 聊聊 JavaScript 的单线程与异步，浏览器的多线程、引擎和内核。
@@ -179,7 +179,7 @@ JavaScript 代码中有帧的概念，对于同步代码是在当前帧运行的
 ## 参考
 
 * [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
-* [FE-Cookbook](https://github.com/hijiangtao/FE-Cookbook/blob/master/Tricks.md)
+* [FE-Cookbook](https://github.com/phuoc852312/FE-Cookbook/blob/master/Tricks.md)
 * [浏览器渲染引擎「内核」](https://github.com/zwwill/blog/issues/2)
 * [JS重塑学习
 ](https://www.kancloud.cn/digest/liao-js/149467)

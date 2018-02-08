@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Joe's Blog"
+title                    : "Phuoc's Blog"
 title_separator          : "-"
-name                     : "hijiangtao"
+name                     : "phuoc852312"
 description              : "All I'm saying is inside, I had the element of surprise."
-url                      : # "https://hijiangtao.github.io"
+url                      : # "https://phuoc852312.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hijiangtao/hijiangtao.github.io"
+repository               : "phuoc852312/phuoc852312.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -21,7 +21,7 @@ comments:
   provider               : "disqus"
   # duoshuo                : datablog
   disqus:
-    shortname            : hijiangtao
+    shortname            : phuoc852312
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "hijiangtao"
+  name             : "phuoc852312"
   avatar           : "bio-photo.jpg"
   bio              : "VIS and FE."
   location         : "Beijing, China"
-  email            : "hijiangtao@gmail.com"
+  email            : "phuoc852312@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : hijiangtao
+  github           : phuoc852312
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : hijiangtao
+  linkedin         : phuoc852312
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : hijiangtao
+  twitter          : phuoc852312
   vine             :
-  weibo            : hijiangtao
+  weibo            : phuoc852312
   xing             :
   youtube          :
   cv               : "/assets/doc/TaoJiang-ResumeCN.pdf"

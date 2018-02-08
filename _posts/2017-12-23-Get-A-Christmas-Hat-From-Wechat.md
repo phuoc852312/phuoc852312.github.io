@@ -3,7 +3,7 @@ title: 如何以正确的姿态让@微信官方给我戴一个圣诞帽与技术
 layout: post
 thread: 184
 date: 2017-12-23
-author: Joe Jiang
+author: Phuoc Jiang
 categories: Student
 tags: [2017, UCAS]
 excerpt: 昨天到今天，朋友圈在刷屏这样一句话……

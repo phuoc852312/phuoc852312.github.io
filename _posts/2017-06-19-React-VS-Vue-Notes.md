@@ -3,7 +3,7 @@ title: React 与 Vue 的实践总结
 layout: post
 thread: 176
 date: 2017-06-19
-author: Joe Jiang
+author: Phuoc Jiang
 categories: documents
 tags: [Vue, React, 框架]
 excerpt: 最近花了比较大段的时间用于了解和实践主流三大框架其中的两个 - Vue 和 React, 总结一下自己在使用中感受到的两者在提升开发效率上的一些异同之处。
@@ -291,9 +291,9 @@ React 通过 props 和 state 将状态管理给明确了出来，相应的在 Vu
 
 ECMAScript 标准以及实现是前端工程师需要去详细透彻了解的内容，框架只是提升我们工作效率的一个手段。当然，闲暇之余，React/Vue/Angular 的设计思想还是值得我们去研究的，这对我们写出更好的代码以及设计更好的应用架构都很有很大的帮助。
 
-最近，用 Vue + Vuex + Vue-router + PWA + HTML5 localStorage 开发了一个简单的笔记应用，代码可以在 [Github](https://github.com/hijiangtao/octo-note) 查看，在线演示见 [demo](https://hijiangtao.github.io/octo-note/)。
+最近，用 Vue + Vuex + Vue-router + PWA + HTML5 localStorage 开发了一个简单的笔记应用，代码可以在 [Github](https://github.com/phuoc852312/octo-note) 查看，在线演示见 [demo](https://phuoc852312.github.io/octo-note/)。
 
-与此同时，由于学习 React，跟着入门教程也开发了一版 tic-tac-toe 游戏，代码见 [Github](https://github.com/hijiangtao/tic-tac-toe)，在线演示见 [demo](https://hijiangtao.github.io/tic-tac-toe/)。
+与此同时，由于学习 React，跟着入门教程也开发了一版 tic-tac-toe 游戏，代码见 [Github](https://github.com/phuoc852312/tic-tac-toe)，在线演示见 [demo](https://phuoc852312.github.io/tic-tac-toe/)。
 
 文章写的不尽完善，相关的要点待想到时再添加上来。
 

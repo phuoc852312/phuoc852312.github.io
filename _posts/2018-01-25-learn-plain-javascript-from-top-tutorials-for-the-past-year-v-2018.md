@@ -3,7 +3,7 @@ title: \[译\]从2.4万篇文章中挑出的最棒的 JavaScript 学习指南（
 layout: post
 thread: 189
 date: 2018-01-25
-author: Joe Jiang
+author: Phuoc Jiang
 categories: Documents
 tags: [2018, FrontEnd, JavaScript, Web, Software]
 excerpt: 原文作者研究了近2.4万篇 JavaScript 文章得出这篇总结，全文包含学习指南、新人上手、Webpack、性能、基础概念、函数式编程、面试、教程案例、Async Await、并发、V8、机器学习、数据可视化、调试、单元测试等章节，非常适合用于对自己 JavaScript 技术栈的比对，用于查漏补缺，适合收藏阅读。文中如有错误，欢迎评论指出。
@@ -18,9 +18,9 @@ header:
 >
 > 原文地址 - <https://github.com/Mybridge/learn-javascript>
 > 
-> 译者 - [hijiangtao](https://github.com/hijiangtao)
+> 译者 - [phuoc852312](https://github.com/phuoc852312)
 >
-> 译文地址 - <https://hijiangtao.github.io/2018/01/25/learn-plain-javascript-from-top-tutorials-for-the-past-year-v-2018/>
+> 译文地址 - <https://phuoc852312.github.io/2018/01/25/learn-plain-javascript-from-top-tutorials-for-the-past-year-v-2018/>
 >
 > 知乎专栏 - <https://zhuanlan.zhihu.com/p/33298555>
 

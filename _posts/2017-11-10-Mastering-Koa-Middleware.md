@@ -3,7 +3,7 @@ title: \[译\] 掌握 Koa 中间件
 layout: post
 thread: 181
 date: 2017-11-10
-author: Joe Jiang
+author: Phuoc Jiang
 categories: documents
 tags: [Koa, JavaScript, Middleware, Nodejs, Koajs, Expressjs, Translation]
 excerpt: 随着 Node 默默的实现了 async-await 的用法，Koa2 也在最近发布了。Express 似乎还占领着这场人气比赛的上风，但自 Koa2 发布以来我一直愉快的使用着，并且总是害怕回到老项目中去使用 Express...
@@ -400,4 +400,4 @@ Koa 很酷。基于中间件链的完全控制，并且基于 Promise 的事实�
 
 ## 原文链接
 
-[Mastering Koa Middleware](https://medium.com/netscape/mastering-koa-middleware-f0af6d327a69), 作者 Twitter [@Jeffijoe](https://twitter.com/jeffijoe)
+[Mastering Koa Middleware](https://medium.com/netscape/mastering-koa-middleware-f0af6d327a69), 作者 Twitter [@JeffiPhuoc](https://twitter.com/jeffiPhuoc)

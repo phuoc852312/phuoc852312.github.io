@@ -3,7 +3,7 @@ title: 如何监听页面 DOM 变动并高效响应
 layout: post
 thread: 179
 date: 2017-08-03
-author: Joe Jiang
+author: Phuoc Jiang
 categories: documents
 tags: [DOM, JavaScript, Event]
 excerpt: 最近在做 chrome 插件开发，既然是插件那就难免不对现有页面做一些控制，比如事件监听、调整布局、对 DOM 元素的增删改查等等。其中有一个需求比较有意思，便整理一下顺便把涉及到的知识点复习一遍。

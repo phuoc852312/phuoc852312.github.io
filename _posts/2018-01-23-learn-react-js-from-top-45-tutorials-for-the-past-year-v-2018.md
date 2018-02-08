@@ -3,7 +3,7 @@ title: \[译\]从1.8万篇文章中脱颖而出45个最棒的 React.js 学习指
 layout: post
 thread: 188
 date: 2018-01-23
-author: Joe Jiang
+author: Phuoc Jiang
 categories: Documents
 tags: [2018, React, JavaScript, Web, Software]
 excerpt: 原文作者研究了近1.8万篇 React.js 文章得出这篇总结，全文既包含 React 入门，进阶和综合应用专题，也包括对路由、React Native、动画、PWA等内容的专题介绍，非常适合用于对自己 React 技术栈的比对，用于查漏补缺，适合收藏阅读。译者保留了原文链接以及对应作者的 medium 或者 twitter 链接地址，方便读者进行进一步查看和学习。文中如有错误，欢迎评论指出。
@@ -18,9 +18,9 @@ header:
 >
 > 原文地址 - <https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4>
 > 
-> 译者 - [hijiangtao](https://github.com/hijiangtao)
+> 译者 - [phuoc852312](https://github.com/phuoc852312)
 >
-> 译文地址 - <https://hijiangtao.github.io/2018/01/23/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018/>
+> 译文地址 - <https://phuoc852312.github.io/2018/01/23/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018/>
 >
 > 知乎专栏 - <https://zhuanlan.zhihu.com/p/33207643>
 
@@ -244,7 +244,7 @@ React, 内联函数和性能。由 [Ryan Florence](https://medium.com/@ryanflore
 
 ### [No 27](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-React 在 Airbnb 列表页面的性能修复。由 [Joe Lencioni](https://medium.com/@lencioni) 提供。
+React 在 Airbnb 列表页面的性能修复。由 [Phuoc Lencioni](https://medium.com/@lencioni) 提供。
 
 ![](/assets/in-post/2018-01-23-learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28.png)
 

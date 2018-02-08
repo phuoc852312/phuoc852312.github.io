@@ -6,9 +6,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: blogAlbumhomepage-banner-1.jpg
-  cta_url: "https://github.com/hijiangtao/hijiangtao.github.io/"
-  caption: "Photo credit: [**hijiangtao**](https://hijiangtao.github.io/)"
-excerpt: "Joe's Portfolio."
+  cta_url: "https://github.com/phuoc852312/phuoc852312.github.io/"
+  caption: "Photo credit: [**phuoc852312**](https://phuoc852312.github.io/)"
+excerpt: "Phuoc's Portfolio."
 intro: 
   - excerpt: 'Some projects slected from my works. You can find out more via my Github Repositry List.'
 feature_row:

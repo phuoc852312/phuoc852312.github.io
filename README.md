@@ -1,6 +1,6 @@
-# [Joe's Blog](https://hijiangtao.github.io/)
+# [Phuoc's Blog](https://phuoc852312.github.io/)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd4fd74b864245a391d8678f1f458359)](https://www.codacy.com/app/hijiangtao/hijiangtao.github.io?utm_source=github.com&utm_medium=referral&utm_content=hijiangtao/hijiangtao.github.io&utm_campaign=badger) [![GitHub contributors](https://img.shields.io/github/contributors/hijiangtao/hijiangtao.github.io.svg)]() [![GitHub issues](https://img.shields.io/github/issues/hijiangtao/hijiangtao.github.io.svg)]() [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contribute) [![license](https://img.shields.io/github/license/hijiangtao/hijiangtao.github.io.svg)]() [![Travis](https://img.shields.io/travis/hijiangtao/hijiangtao.github.io/master.svg)]()
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd4fd74b864245a391d8678f1f458359)](https://www.codacy.com/app/phuoc852312/phuoc852312.github.io?utm_source=github.com&utm_medium=referral&utm_content=phuoc852312/phuoc852312.github.io&utm_campaign=badger) [![GitHub contributors](https://img.shields.io/github/contributors/phuoc852312/phuoc852312.github.io.svg)]() [![GitHub issues](https://img.shields.io/github/issues/phuoc852312/phuoc852312.github.io.svg)]() [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contribute) [![license](https://img.shields.io/github/license/phuoc852312/phuoc852312.github.io.svg)]() [![Travis](https://img.shields.io/travis/phuoc852312/phuoc852312.github.io/master.svg)]()
 
 ## Features
 
@@ -17,7 +17,7 @@ thread: THREAD ID
 categories: CATEGORY
 tags: [tag1, tag2]
 excerpt: Introduction
-iframe: PUT YOUR URL HERE, such as https://hijiangtao.github.io/slides/s-D3-Basic-Tutorial
+iframe: PUT YOUR URL HERE, such as https://phuoc852312.github.io/slides/s-D3-Basic-Tutorial
 ---
 ```
 
@@ -26,18 +26,18 @@ Progressive Web APP Support: TBD
 ## Serve locally
 
 ```
-git clone git@github.com:hijiangtao/hijiangtao.github.io.git
+git clone git@github.com:phuoc852312/phuoc852312.github.io.git
 bundle exec jekyll serve
 ```
 
 ## About
 
-[Create](https://github.com/hijiangtao/hijiangtao.github.io/issues/new) a new issue to report bugs or communicate with me about your insights.
+[Create](https://github.com/phuoc852312/phuoc852312.github.io/issues/new) a new issue to report bugs or communicate with me about your insights.
 
 This is the source code for my personal website.
 
 Unless stated otherwise, all content is MIT-licensed.
 
-Joe Jiang
+Phuoc Jiang
 
 2017.2
