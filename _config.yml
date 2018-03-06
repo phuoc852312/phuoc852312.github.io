@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Phuoc's Blog"
 title_separator          : "-"
 name                     : "phuoc852312"
-description              : "All I'm saying is inside, I had the element of surprise."
+description              : "Determined, optimistic, understanding of technical knowledges and value-oriented"
 url                      : # "https://phuoc852312.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "phuoc852312/phuoc852312.github.io"
@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "phuoc852312"
+  name             : "Phuoc Le"
   avatar           : "bio-photo.jpg"
   bio              : "Frontend Web Developer"
   location         : "Ho Chi Minh, Vietnam"
@@ -108,10 +108,11 @@ author:
   tumblr           :
   twitter          : phuoc852312
   vine             :
-  weibo            : phuoc852312
-  xing             :e
+  weibo            :
+  xing             :
   youtube          :
-  cv               : "/assets/doc/TaoJiang-ResumeCN.pdf"
+  cv               : "/assets/doc/PhuocLeResumeSinglePage.pdf"
+  medium           : phuoc852312
 
 
 # Reading Files
